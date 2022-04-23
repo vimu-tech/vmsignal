@@ -7,6 +7,13 @@ Note:
 2,If you find any bugs or suggestions in use, you can contact us.
 	www.vimu.top  www.instrustar.com
 
+平台支持:
+Platform support:
+	windows: x86 x64 amr64;
+	linux: x64 arm-linux-gnueabi arm-linux-gnueabihf 
+More platforms, we will add later.
+
+
 linux.zip
 这个是linux平台下面的so和lib库，你需要拷贝到linux系统然后再解压，在windows解压后拷贝，可能出现链接错误
 This is the so and lib library below the Linux platform, you need to copy to the Linux system and then decompress, copy after windows decompression, there may be link errors
