@@ -13,7 +13,6 @@
 *.db
 
 # Compiled Dynamic libraries
-*.so
 *.dylib
 *.dll
 
@@ -23,7 +22,6 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
 *.lib
 
 # Executables
@@ -38,22 +36,6 @@
 *.iic
 *.cache
 *.aps
-
-#说明：忽略目录 Debug 下的全部内容；注意，不管是根目录下的 /Debug/ 目录，还是某个子目录 /child/Debug/ 目录，都会被忽略；
-Debug/
-Release/
-Win32/
-X64/
-/thelib/Crypto/
-_old/
-.vs/
-
-build-QT-Project-Desktop_Qt_6_1_2_MSVC2019_64bit-Debug/
-build-QT-Project-Desktop_Qt_6_1_2_MSVC2019_64bit-Release/
-build-QT-Project-Desktop_Qt_6_1_2_MinGW_64_bit-Debug/
-build-QT-Project-Desktop_Qt_6_1_2_MinGW_64_bit-Release/
-CMake-VS2019/out/
-build/
 
 *.pdf
 *.docx
